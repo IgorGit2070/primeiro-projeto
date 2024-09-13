@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.red-title {
+  color: red;
+  background-color: yellow;
+}
+
+.normal-title {
+  color: pink;
+  background-color: aqua;
+}
